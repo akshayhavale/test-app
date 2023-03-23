@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "connection",
+      "type": "com.app.configuration.ConnectionConfiguration",
+      "sourceType": "com.app.configuration.ConnectionConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "connection.baseurl",
+      "type": "java.lang.String",
+      "sourceType": "com.app.configuration.ConnectionConfiguration"
+    },
+    {
+      "name": "connection.name",
+      "type": "java.lang.String",
+      "sourceType": "com.app.configuration.ConnectionConfiguration"
+    },
+    {
+      "name": "connection.password",
+      "type": "java.lang.String",
+      "sourceType": "com.app.configuration.ConnectionConfiguration"
+    },
+    {
+      "name": "connection.username",
+      "type": "java.lang.String",
+      "sourceType": "com.app.configuration.ConnectionConfiguration"
+    }
+  ],
+  "hints": []
+}
